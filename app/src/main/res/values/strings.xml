@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktikum8</string>
+    <string name="hint_word">Kata...</string>
+    <string name="button_save">Simpan</string>
+    <string name="empty_not_saved">Kata tidak dapat disimpan Karena kosong.</string>
+    <string name="Hapus">Seluruh Data Telah Dihapus</string>
+</resources>
